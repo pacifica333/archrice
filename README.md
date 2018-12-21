@@ -1,0 +1,2 @@
+# archrice
+dotfiles and such
